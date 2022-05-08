@@ -1,0 +1,104 @@
+/* Background Colour */
+body{
+    background-color: rgb(226, 164, 93);
+}
+/* Align Text to the Message */
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+/* Style For Box 1*/
+.box1{
+    
+    height: 100px;
+    width: 100px;
+    background-color: rgb(51, 66, 66);
+    position: absolute;
+    border: 1px solid blue ;
+  
+}
+/* Style For Box 2*/
+.box2{
+    
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    margin-left: 100px;
+    margin-top: 100px;
+   position: absolute;
+   border: 1px solid red ;
+}
+/* Style For Box 3*/
+.box3{
+    
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 200px;
+    position: absolute;
+    border: 1px solid cyan ;
+
+}
+/* Style For Box 4*/
+.box4{
+   
+    height: 100px;
+    width: 100px;
+    background-color: rgb(241, 18, 18);
+    margin-left: 300px;
+    margin-top: 100px;
+    position: absolute;
+}
+/* Style For Box 5*/
+.box5{
+   
+    height: 100px;
+    width: 100px;
+    background-color: rgb(25, 122, 1);
+    margin-left: 400px;
+    margin-top: 00px;
+    position: absolute;
+}
+/* Style For Box 6*/
+.box6{
+  
+    height: 100px;
+    width: 100px;
+    background-color: rgb(55, 26, 214);
+    margin-left: 500px;
+    margin-top: 100px;
+    position: absolute;
+}
+/* Style For Box 7*/
+.box7{
+   
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    margin-left: 600px;
+    margin-top: 200px;
+    position: absolute;
+}
+/* Style For Box 8*/
+.box8{
+  
+    height: 100px;
+    width: 100px;
+    background-color: rgb(54, 204, 54);
+    margin-left: 700px;
+    margin-top: 100px;
+    position: absolute;
+}
+/* Style For Box 9*/
+.box9{
+   
+    height: 100px;
+    width: 100px;
+    background-color:goldenrod;
+    margin-left: 800px;
+    margin-top: 00px;
+    position: absolute;
+}

@@ -1,0 +1,59 @@
+/* Background Colour*/
+body{
+    background-color: rgb(238, 136, 99);
+}
+/* Style For Box 1*/
+div.box1{
+    background-color: rgb(114, 102, 102);
+    height: 100px;
+    width: 100px;
+   position: absolute;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid blue;
+}
+/* Style For Box 2*/
+div.box2{
+    background-color:yellow;
+    height: 80px;
+    width: 80px;
+    float: right;
+    margin: 50px;
+    border-right: 10px;
+    text-align: center;
+   border: 2px dashed red;
+}
+/* Style For Box 3*/
+div.box3{
+    background-color:white;
+    height: 300px;
+    width: 600px;
+    border: 5px solid aqua;
+    margin-top:50px;
+   margin-left: 65px;
+  float: left;
+  text-align: center;
+}
+/* Style For Box 4*/
+div.box4{
+    background-color:red;
+    height: 570px;
+    width: 100px;
+    bottom: 0px;
+    border: 10px solid black;
+    float: right;
+    margin-top :50px;
+    text-align: center;
+}
+/* Style For Box 1*/
+div.box5{
+    background-color:green;
+    height: 150px;
+    width: 1310px;
+    border-bottom: 70px;
+    left: 50px;
+    bottom: 80px;
+    position: absolute;
+    text-align: center;
+    box-shadow: inset 1px 1px  white;
+}
