@@ -961,17 +961,22 @@ footer .copyright{
         padding: 80px 0 0 10px;
         transition: 0.3s;
     }
-    #navbar.active{
+    #navbar.active {
         right: 0px;
     }
-    #navbar li{
+    #navbar li {
         margin-bottom: 25px;
     }
     #mobile {
         display: flex;
         align-items: center;
     }
-    #close{
+    #mobile i {
+        color: #1a1a1a;
+        font-size: 24px;
+        padding-left: 20px;
+    }
+    #close {
         display: initial;
         position: absolute;
         top: 30px;
@@ -979,11 +984,11 @@ footer .copyright{
         color: #222;
         font-size: 24px;
     }
-    #lg-bag{
+    #lg-bag {
         display: none;
     }
     #hero {
-        height: 90vh;
+        height: 70vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
     }
@@ -996,7 +1001,7 @@ footer .copyright{
     #product1 .pro-container {
         justify-content: center;
     }
-    #product1.pro {
+    #product1 .pro {
         margin: 15px;
     }
     #banner {
@@ -1035,16 +1040,16 @@ footer .copyright{
 
 
 @media (max-width: 477px) {
-    .section-p1{
+    .section-p1 {
         padding: 20px; 
     }
     #header {
         padding: 10px 30px;
     }
-    h1{
+    h1 {
         font-size: 38px;
     }
-    h2{
+    h2 {
         font-size: 32px;
     }
     #hero {
